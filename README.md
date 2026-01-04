@@ -214,3 +214,9 @@ flutter run
 - Consultation vidéo
 - Notifications
 - Gestion des documents médicaux
+
+
+<img width="498" height="1031" alt="Capture d&#39;écran 2026-01-04 232317" src="https://github.com/user-attachments/assets/e3c25ddc-2339-449b-926b-049dc62b171e" />
+<img width="500" height="1030" alt="Capture d&#39;écran 2026-01-04 232308" src="https://github.com/user-attachments/assets/28783161-0ad8-432b-a689-dc9cf5434333" />
+<img width="500" height="1029" alt="Capture d&#39;écran 2026-01-04 232247" src="https://github.com/user-attachments/assets/dc83e1eb-641f-4b77-ba80-d5ec602f3ae0" />
+
